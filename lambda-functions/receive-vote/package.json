@@ -1,0 +1,13 @@
+{
+  "name": "app-vote-meetup",
+  "version": "0.0.1",
+  "description": "Vote app using Lambda, apigateway, and S3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vamperst@gmail.com",
+  "dependencies": {
+    "aws-sdk": ">= 2.140.0"
+  }
+}
